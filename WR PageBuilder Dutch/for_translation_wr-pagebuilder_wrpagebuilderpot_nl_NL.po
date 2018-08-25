@@ -22,11 +22,11 @@ msgstr ""
 
 #: core/addon.php:262
 msgid "You can not activate this WR PageBuilder's provider:"
-msgstr "U kunt deze WR PageBuilder 's provider niet te activeren:"
+msgstr "U kunt deze WR PageBuilder 's provider niet activeren:"
 
 #: core/addon.php:267
 msgid "It requires WR PageBuilder's version:"
-msgstr "Dit vereist WR PageBuilder 's versie :"
+msgstr "Dit vereist WR PageBuilder's versie :"
 
 #: core/converter/converter.php:181 core/converter/converter.php:201
 msgid "Not found any %s data."
@@ -34,7 +34,7 @@ msgstr "Geen %s data gevonden."
 
 #: core/converter/converter.php:216
 msgid "Cannot backup current post."
-msgstr "Kan geen back-up maken van huidige post."
+msgstr "Kan geen back-up maken van de huidige post."
 
 #: core/converter/converter.php:249
 msgid "Cannot update current post."
@@ -42,7 +42,7 @@ msgstr "Kan huidig bericht niet updaten"
 
 #: core/converter/converter.php:257
 msgid "Cannot store WR PageBuilder data to post meta."
-msgstr "Kan niet WR PageBuilder gegevens op slaan naar post meta"
+msgstr "Kan geen WR PageBuilder-gegevens op slaan naar post meta"
 
 #: core/core.php:202
 msgid "Start using the PageBuilder"
@@ -56,11 +56,11 @@ msgstr "WR PageBuilder"
 
 #: core/core.php:616
 msgid "empty shortcode name / parameters"
-msgstr "leeg shortcode naam / parameters"
+msgstr "lege shortcode-naam /-parameters"
 
 #: core/core.php:969 core/helper/functions.php:65
 msgid "Add Page Element"
-msgstr "Voeg Pagina Element toe"
+msgstr "Voeg Pagina-Element toe"
 
 #: core/core.php:1119
 msgid "Classic Editor"
@@ -89,17 +89,17 @@ msgstr "(Ongedefinieerd)"
 msgid ""
 "Are you sure you want to delete the whole row including all elements it "
 "contains?"
-msgstr "Bent u zeker dat u de hele rij  inclusief alle elementen die het de rij bevat wilt verwijderen?"
+msgstr "Bent u zeker dat u de hele rij  inclusief alle elementen die de rij bevat wilt verwijderen?"
 
 #: core/helper/functions.php:34
 msgid ""
 "Are you sure you want to delete the whole column including all elements it "
 "contains?"
-msgstr "Bent u zeker dat u de hele kolom inclusief alle elementen die het de kolom bevat wilt verwijderen?"
+msgstr "Bent u zeker dat u de hele kolom inclusief alle elementen die de kolom bevat wilt verwijderen?"
 
 #: core/helper/functions.php:35
 msgid "Are you sure you want to delete the element?"
-msgstr "Bent u zeker dat u dit element wilt verwijderen?"
+msgstr "Weet u zeker dat u dit element wilt verwijderen?"
 
 #: core/helper/functions.php:37
 msgid "A table must has atleast 1 columns. You can't remove this column"
@@ -123,7 +123,7 @@ msgstr "Error bij het laden van TinyMCE."
 
 #: core/helper/functions.php:43 core/product/plugin.php:62
 msgid "Settings"
-msgstr "Settings"
+msgstr "Instellingen"
 
 #: core/helper/functions.php:44
 msgid "Page Modal"
@@ -131,12 +131,12 @@ msgstr "Pagina Madaal"
 
 #: core/helper/functions.php:45
 msgid "Convert to "
-msgstr "Converteren naar"
+msgstr "Convertereer naar"
 
 #: core/helper/functions.php:47 shortcodes/audio/audio.php:280
 #: shortcodes/audio/audio.php:289
 msgid "No audio source selected"
-msgstr "Geen audio bron geselecteerd"
+msgstr "Geen audiobron geselecteerd"
 
 #: core/helper/functions.php:48
 msgid "Select Destination Marker"
@@ -184,7 +184,7 @@ msgstr "Menu"
 
 #: core/helper/functions.php:59
 msgid "Filter By"
-msgstr "Filter Bij"
+msgstr "Filter op"
 
 #: core/helper/functions.php:60
 #: shortcodes/pricing-table/item/pricing-table.php:151
@@ -210,7 +210,7 @@ msgid ""
 "After turning off, the content built with PageBuilder will be parsed to "
 "plain HTML code and inserted to default editor. Are you sure you want to "
 "turn PageBuilder off?"
-msgstr "Na het uitschakelen zal de inhoud die is gebouwd met PageBuilder worden omgezet naar eenvoudige HTML code in de default editor. Weet u zeker dat u wilt PageBuilder wilt uitschakelen ?"
+msgstr "Na het uitschakelen zal de inhoud die is gebouwd met PageBuilder worden omgezet naar eenvoudige HTML code in de default editor. Weet u zeker dat u PageBuilder wilt uitschakelen ?"
 
 #: core/helper/functions.php:67
 msgid "You used up to 50 characters"
@@ -220,7 +220,7 @@ msgstr "U heeft maximaal 50 tekens gebruikt"
 msgid ""
 "The whole content of current Post will be replaced by content of selected "
 "Page item. Do you want to continue?"
-msgstr ""
+msgstr "De hele content van het huidige bericht zal vervangen worden door de content van het geselecteerde pagina-item. Wilt u verder gaan?"
 
 #: core/helper/functions.php:70 core/helper/functions.php:917
 msgid "Deactivate element"
@@ -244,7 +244,7 @@ msgstr "Succesvol geupload"
 
 #: core/helper/functions.php:79
 msgid "Upload fail"
-msgstr "Upload mislukt"
+msgstr "De Upload is helaas mislukt."
 
 #: core/helper/functions.php:80
 msgid "Page is deleted successfully"
